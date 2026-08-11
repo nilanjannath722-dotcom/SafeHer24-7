@@ -141,8 +141,4 @@ SafeHer24-7/
 - Live YAMNet/TFLite acoustic classification (currently demo-mode with pre-recorded clip fallback)
 - India-region hosting (AWS `ap-south-1` / GCP `asia-south1`) for production latency
 
----
 
-## 📄 License
-
-*(Add your chosen license here — see LICENSE file)*
